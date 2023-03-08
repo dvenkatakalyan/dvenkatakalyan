@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:936/0*2Br9TeQLYo1ItAP_)
+![MasterHead](https://wallpaperaccess.com/full/8417295.jpg)
 <h1 align="center">Hi 👋, I'm kalyan</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
 <img align="right" alt-"Coding" width="400" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/001/579/039/datas/medium.gif"
